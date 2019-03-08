@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 95d0b4032d5fef446a5b63ad09d91d51, type: 3}
+  m_Name: TetrominoColorsDefault
+  m_EditorClassIdentifier: 
+  BorderColor: {fileID: 0}
+  TetraminoListAll:
+  - {fileID: 2806924176059341735, guid: 308032d010de2d240a284cf256375ff3, type: 3}
+  - {fileID: 8796857359453894099, guid: 6ad557b12a9fe614aaa7a8460a605429, type: 3}
+  - {fileID: 938087872683289047, guid: 3542a781d1386d04ab7a3bf09c50dc61, type: 3}
+  - {fileID: 1085945324971255439, guid: c1d6c1eed8ed6654f934868754ebfe95, type: 3}
+  - {fileID: 2991312009619915809, guid: 1cb5bbf261ed4fd408b8c0874a11cb03, type: 3}
+  - {fileID: 2099748662571836054, guid: 375db3b9ba3a8624faa8279d6a119e4c, type: 3}
+  - {fileID: 5523632715973185492, guid: d1618e31e1cc5e947a16550734189549, type: 3}
+  TetraminoColors:
+  - {fileID: 11400000, guid: 852025382a9e02a44b1fc00b5aca561d, type: 2}
+  - {fileID: 11400000, guid: baf22278eb4d94147ae8fb00fbf4eb12, type: 2}
+  - {fileID: 11400000, guid: 7ed2693d428431f43842abe5fa961d41, type: 2}
+  - {fileID: 11400000, guid: 0ba825e9348c92f409254a67c8325f70, type: 2}
+  - {fileID: 11400000, guid: cb768786ac3ef424ba5c6a24786457fc, type: 2}
+  - {fileID: 11400000, guid: 8e086b084862ca0459891e1e9dde995b, type: 2}
+  - {fileID: 11400000, guid: 241b9b4653b0a4c4784efef07cc33d63, type: 2}

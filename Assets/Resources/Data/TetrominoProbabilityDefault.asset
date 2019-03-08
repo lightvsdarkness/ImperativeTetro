@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: d849770126529ba4686d78a3e82694c3, type: 3}
+  m_Name: TetrominoProbabilityDefault
+  m_EditorClassIdentifier: 
+  TetraminoListAll:
+  - {fileID: 938087872683289047, guid: 3542a781d1386d04ab7a3bf09c50dc61, type: 3}
+  - {fileID: 2991312009619915809, guid: 1cb5bbf261ed4fd408b8c0874a11cb03, type: 3}
+  - {fileID: 1085945324971255439, guid: c1d6c1eed8ed6654f934868754ebfe95, type: 3}
+  - {fileID: 2099748662571836054, guid: 375db3b9ba3a8624faa8279d6a119e4c, type: 3}
+  - {fileID: 2806924176059341735, guid: 308032d010de2d240a284cf256375ff3, type: 3}
+  - {fileID: 5523632715973185492, guid: d1618e31e1cc5e947a16550734189549, type: 3}
+  - {fileID: 8796857359453894099, guid: 6ad557b12a9fe614aaa7a8460a605429, type: 3}
+  TetraminoProbability:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
